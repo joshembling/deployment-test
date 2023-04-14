@@ -14,7 +14,7 @@ $array = [1,2,3,4,5,6,7,8,9,10];
   </head>
   <body>
     <h1>Deployment test 123</h1>
-    <a href="/deployment/about.html">About</a>
+    <a href="/deployment/about">About</a>
 
     <?php foreach($array as $a) { 
       echo $a . '<br/>';
