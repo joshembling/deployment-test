@@ -8,6 +8,6 @@
   </head>
   <body>
     <h1>Deployment test 123</h1>
-    <a href="/deployment/about">About</a>
+    <a href="/deployment/about.html">About</a>
   </body>
 </html>
